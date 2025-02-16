@@ -1,0 +1,5 @@
+{
+  "files": [],
+  "references": [{ "path": "src/main" }, { "path": "src/client" }],
+ 
+}
