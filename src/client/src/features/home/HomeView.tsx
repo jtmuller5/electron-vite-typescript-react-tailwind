@@ -10,7 +10,7 @@ export default function HomeView() {
           alert(response); // Display the response from ping()
         }}
       >
-        Click Me
+        Ping
       </button>
     </div>
   );
